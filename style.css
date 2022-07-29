@@ -1,0 +1,412 @@
+* {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+.main {
+    margin-top: -29px;
+    margin-left: 49px;
+    margin-right: 20px;
+}
+
+.other {
+    margin-top: -20px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.whole {
+    float: left;
+    background:  rgb(0, 183, 255);
+    margin: 0px;
+    border-radius: 0px 0px 20px 0px ;
+    color: white;
+    font-weight: bolder;
+}
+
+.one {
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+.two {
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+
+.profile {
+    margin-top: -20px;
+    margin-left: 49px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.three {
+    margin-top: -10px;
+    margin-left: 16px; 
+}
+
+.message {
+    margin-top: -22px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.four {
+    margin-top: -10px;
+    margin-left: 16px; 
+}
+
+.five {
+    margin-top: -10px;
+    margin-left: 16px; 
+}
+
+.history {
+    margin-top: -21px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.six {
+    margin-top: -10px;
+    margin-left: 16px;  
+}
+
+.task {
+    margin-top: -21px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.group {
+    margin-top: -21px;
+    margin-left: 49px; 
+    cursor: pointer;
+}
+
+.seven {
+    margin-top: -10px;
+    margin-left: 16px;   
+}
+
+.eight {
+    margin-top: 20px;
+    margin-left: 16px;   
+}
+
+.setting {
+    margin-top: -20px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.nine {
+    margin-top: -10px;
+    margin-left: 16px; 
+}
+
+.help {
+    margin-top: -21px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+.ten {
+    margin-top: -10px;
+    margin-left: 16px; 
+}
+
+.priv {
+    margin-top: -20px;
+    margin-left: 49px;
+    margin-bottom: 210px;
+    cursor: pointer;
+}
+
+.mag {
+    margin-left: 327px;
+    margin-top: 27px;
+}
+
+.input {
+    margin-top: -23px;
+}
+
+.search {
+    margin-left: 350px;
+    border-radius: 50px 50px 50px 50px;
+    border-color: white;
+    width: 330px;
+    border: 0px solid white;
+    background: rgba(234, 230, 230,0.8);
+}
+
+.noti {
+    margin-top: -17px;
+}
+
+.notis {
+    margin-left: 750px;
+}
+
+.pic {
+    margin-top: -35px;
+    margin-left: 100px;
+}
+
+.img {
+    margin-left: 820px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.username {
+    margin-left: 1050px;
+}
+
+.user {
+    margin-top: -34px;
+}
+
+.name {
+    margin-top: -45px;
+}
+
+.hold {
+    margin-left: 300px;
+}
+
+.img_two {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-left: 300px;
+    margin-bottom: 39px;
+}
+
+.pic_two {
+    margin-top: 30px;
+}
+
+.hello {
+    margin-top: -96px;
+}
+
+.welcome {
+    margin-left: 540px;
+}
+
+.middle {
+ margin-left: 540px;
+ font-weight: bolder;
+}
+
+.phrase {
+    margin-top: -19px;
+}
+
+.world {
+    background: white;
+}
+
+body {
+    background-color: rgba(0, 183, 255, 0.1);
+}
+
+.buttons {
+    margin-left: 959px;
+    gap: 19px;
+    margin-bottom: 20px;
+    margin-top: -40px;
+}
+
+.buttons_two {
+    margin-left: 1059px;
+    gap: 19px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+
+.buttons_three {
+    margin-left: 1159px;
+    gap: 19px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+
+.button_one {
+   border-radius: 50px 50px 50px 50px;
+   background-color: rgba(0, 183, 255, 0.6);
+   border: 1px solid rgba(0, 183, 255,0.1);
+   color: white;
+   width: 70px;
+   height: 30px;
+   font-weight: bolder;
+}
+
+.button_one:hover {
+    box-shadow: 5px 5px black;
+    width: 80px;
+    cursor: pointer;
+}
+
+.button_two:hover {
+    box-shadow: 5px 5px black;
+    width: 80px;
+    cursor: pointer;
+}
+
+.button_three:hover {
+    box-shadow: 5px 5px black;
+    width: 80px;
+    cursor: pointer;
+}
+
+.button_two {
+    border-radius: 50px 50px 50px 50px;
+    background-color: rgba(0, 183, 255, 0.6);
+    border: 1px solid rgba(0, 183, 255, 0.1);
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-weight: bolder;
+}
+
+.button_three {
+    border-radius: 50px 50px 50px 50px;
+    margin-bottom: 20px;
+    background-color: rgba(0, 183, 255, 0.6);
+    border: 1px solid rgba(0, 183, 255, 0.1);
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-weight: bolder;
+}
+
+.hold {
+    font-weight: bolder;
+    color: rgb(0, 183, 255);
+    text-shadow: 0px 72px rgba(0, 183, 255, 0.5);
+}
+
+.title {
+    display: grid;
+}
+
+.text_two {
+    border: white;
+    width: 190px;
+    height: 160px;
+    border-left: 2px solid orange;
+    border-radius: 5px 5px 5px 5px ;
+    background: white;
+}
+
+.ones {
+    margin-top: 30px;
+}
+
+.twos {
+    margin-top: 230px;
+}
+
+.threes {
+    margin-top: 30px;
+}
+
+.fours {
+    margin-top: 230px;
+    margin-right: 0px;
+}
+
+.fives {
+    margin-top: 30px;
+    
+}
+
+.sixes {
+    margin-top: 230px;
+    
+}
+
+.wrapper {
+    display: fle;
+    display: grid;
+    grid-template: 50px 50px 50px / 250px 250px 150px;
+    row-gap: 10px;
+    flex-direction: column;
+    justify-content: cente;
+    row-gap: 121px;
+    margin-left: 190px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.text {
+    margin-left: 10px;
+}
+
+.text_one {
+    border: white;
+    width: 230px;
+    height: 160px;
+    border-left: 5px solid orange;
+    border-radius: 5px 5px 5px 5px ;
+    background: white;
+}
+
+.text_two {
+    border: white;
+    width: 230px;
+    height: 160px;
+    border-left: 5px solid orange;
+    border-radius: 5px 5px 5px 5px ;
+    background: white;
+}
+
+.container {
+    margin-left: 190px;
+    margin-bottom: 0px;
+}
+
+.cool {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.box {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.second {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.box_two {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.thrid {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.box_three {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.fourth {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.box_four {
+    margin-top: -20px;
+    margin-left: 20px; 
+}
